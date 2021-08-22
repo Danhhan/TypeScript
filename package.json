@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "learn-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --converage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danhhan/typeScript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "DanhHan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danhhan/typeScript/issues"
+  },
+  "homepage": "https://github.com/Danhhan/typeScript#readme"
+}
